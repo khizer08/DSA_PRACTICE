@@ -9,6 +9,13 @@ public class fifth{
         }
     }
     public static void main(String[] args) {
-        reverseRightAngled(10);
+        reverseRightAngled(5);
     }
 }
+
+// output:-
+// *****
+// ****
+// ***
+// **
+// *

@@ -13,3 +13,10 @@ public class sixth{
         reverseRightAngledNum(5);
     }
 }
+
+// output:-
+// 12345
+// 1234
+// 123
+// 12
+// 1
