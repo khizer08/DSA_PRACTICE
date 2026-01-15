@@ -11,3 +11,9 @@ public class first {
         squarePattern(4);
     }
 }
+
+// output:-
+// ****
+// ****
+// ****
+// ****
