@@ -22,3 +22,10 @@ public class eighth{
        reverse_triangle(5);
     }
 }
+
+// output:-
+// *********
+//  *******
+//   *****
+//    ***
+//     *
