@@ -24,7 +24,3 @@ public class twevelth{
 // 123    321
 // 1234  4321
 // 1234554321
-
-git add twevelth
-git commit -m "v_number_space"
-git push origin main
