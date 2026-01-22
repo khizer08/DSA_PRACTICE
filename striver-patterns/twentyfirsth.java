@@ -16,3 +16,10 @@ public class twentyfirsth{
         hollowsquare(5);
     }
 }
+
+// output:-
+// *****
+// *   *
+// *   *
+// *   *
+// *****
